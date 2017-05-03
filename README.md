@@ -1,4 +1,4 @@
-# vuejstasks
+# contactify
 
 > A Vue.js project
 
